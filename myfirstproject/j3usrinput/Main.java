@@ -1,4 +1,4 @@
-package j3usrinput;
+package myfirstproject.j3usrinput;
 
 import java.util.Scanner;
 
@@ -21,5 +21,6 @@ public class Main {
         area = widht * length;
 
         System.out.println("The area is: " + area + "cm^2");
+        scanner.close();
     }
 }

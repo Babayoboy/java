@@ -1,4 +1,4 @@
-package j2var;
+package myfirstproject.j2var;
 
 public class Main {
     public static void main(String[] args) {

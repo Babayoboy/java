@@ -1,4 +1,4 @@
-package j1com;
+package myfirstproject.j1com;
 
 public class Main {
     public static void main(String[] args) {
