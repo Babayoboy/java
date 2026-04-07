@@ -16,6 +16,9 @@ public class Main {
             list.add(input);
         }
         System.out.println(list);
+
+        list.remove(0);
+        System.out.println(list);
         scanner.close();
     }
 }
