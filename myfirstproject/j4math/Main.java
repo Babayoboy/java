@@ -1,5 +1,3 @@
-package myfirstproject.j4math;
-
 import java.util.Scanner;
 
 public class Main {

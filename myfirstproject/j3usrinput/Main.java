@@ -1,5 +1,3 @@
-package myfirstproject.j3usrinput;
-
 import java.util.Scanner;
 
 public class Main {

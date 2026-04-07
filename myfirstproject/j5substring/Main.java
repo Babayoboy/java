@@ -1,5 +1,3 @@
-package myfirstproject.j5substring;
-
 public class Main {
     public static void main(String[] args) {
         String email = "anshjoshi1234@gmail.com";

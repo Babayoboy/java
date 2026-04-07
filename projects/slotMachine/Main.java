@@ -1,5 +1,3 @@
-package projects.slotMachine;
-
 import java.util.Random;
 import java.util.Scanner;
 

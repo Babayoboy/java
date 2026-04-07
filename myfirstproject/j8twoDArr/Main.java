@@ -1,5 +1,3 @@
-package myfirstproject.j8twoDArr;
-
 public class Main {
     public static void main(String[] args) {
         char[][] keypad= {{'1', '2', '3'},

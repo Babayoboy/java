@@ -1,5 +1,3 @@
-package myfirstproject.j9aggrigation_composition;
-
 public class Main {
     public static void main(String[] args){
         Car car1 = new Car("Tata Sierra", 2025, "Black", "1.5 TGDi Hyperion");

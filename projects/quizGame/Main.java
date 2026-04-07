@@ -1,5 +1,3 @@
-package projects.quizGame;
-
 import java.util.Scanner;
 
 

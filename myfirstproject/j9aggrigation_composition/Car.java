@@ -1,5 +1,3 @@
-package myfirstproject.j9aggrigation_composition;
-
 public class Car {
     String name;
     int year;

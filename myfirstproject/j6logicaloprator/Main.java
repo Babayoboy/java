@@ -1,5 +1,3 @@
-package myfirstproject.j6logicaloprator;
-
 import java.util.Scanner;
 
 public class Main {

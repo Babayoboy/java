@@ -1,5 +1,3 @@
-package projects.shoppingCart;
-
 import java.util.Scanner;
 
 public class Main {

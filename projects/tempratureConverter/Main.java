@@ -1,5 +1,3 @@
-package projects.tempratureConverter;
-
 import java.util.Scanner;
 
 public class Main {
