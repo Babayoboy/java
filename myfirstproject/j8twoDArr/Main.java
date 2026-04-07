@@ -1,4 +1,4 @@
-package myfirstproject.j82dArr;
+package myfirstproject.j8twoDArr;
 
 public class Main {
     public static void main(String[] args) {
