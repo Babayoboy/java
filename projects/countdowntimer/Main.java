@@ -28,12 +28,13 @@ public class Main {
             public void run(){
                 System.out.println(count);
                 count--;
-                if (count <= 0) {
+                if (count < 0) {
                     System.out.println("Timer ended!");
                     timer.cancel();
                 }
             }
         };
         timer.scheduleAtFixedRate(task, 0, 1000);
+        scanner.close();
     }    
 }
