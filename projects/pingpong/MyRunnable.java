@@ -11,7 +11,7 @@ public class MyRunnable implements Runnable{
             System.out.println(text);
             }
             catch(InterruptedException e){
-                System.out.println("Interruption Occured!!");
+                System.out.println(Thread.currentThread().getName() + " was interupted!");
             }
         }
     }
